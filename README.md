@@ -22,4 +22,4 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 
 ## 🐍 Contribution Snake
 
-![Snake](https://github.com/palaksoni24/palaksoni24/raw/output/snake.svg)
+![Snake animation](https://github.com/palaksoni24/palaksoni24/raw/output/github-contribution-grid-snake.svg)
