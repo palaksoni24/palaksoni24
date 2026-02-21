@@ -1,4 +1,4 @@
-name: Generate Pacman Animation
+name: Generate Contribution Animations
 
 on:
   workflow_dispatch:
@@ -13,13 +13,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Contribution Graph
+      # 🐍 Snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: palaksoni24
           outputs: |
-            dist/pacman.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
+      # 🎮 Pacman-style animation
+      - name: Generate Pacman
+        uses: Platane/snk@v3
+        with:
+          github_user_name: palaksoni24
+          outputs: |
+            dist/pacman.svg?color_snake=#FFD700&color_dots=#FFFFFF&background=black
+
+      # 🚀 Deploy
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
