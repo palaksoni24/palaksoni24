@@ -6,15 +6,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
-          github_user_name: palaksoni24
+          github_user_name: YOUR_GITHUB_USERNAME
           outputs: |
-            dist/pacman.svg
+            dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
