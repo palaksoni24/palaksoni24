@@ -21,6 +21,5 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://palaksoni24.github.io/palaksoni24/github-contribution-grid-snake.svg)
 
