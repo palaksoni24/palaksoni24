@@ -19,7 +19,6 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 
 <!-- Pacman github stats-->
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Pacman
 
-![snake gif](https://palaksoni24.github.io/palaksoni24/github-contribution-grid-snake.svg)
-
+![Pacman animation](https://github.com/palaksoni24/palaksoni24/raw/output/pacman.svg)
