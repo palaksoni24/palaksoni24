@@ -16,3 +16,11 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 [![](https://visitcount.itsvg.in/api?id=palaksoni24&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Pacman github stats-->
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
