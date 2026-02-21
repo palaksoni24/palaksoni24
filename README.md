@@ -19,6 +19,11 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 
 <!-- Pacman github stats-->
 
-## 🐍 GitHub Contribution Pacman
 
-![Pacman animation](https://github.com/palaksoni24/palaksoni24/raw/output/pacman.svg)
+## 🎮 Arcade Pacman
+
+![Pacman](https://media.giphy.com/media/ldC94BvZwmiIw/giphy.gif)
+
+## 🐍 Contribution Snake
+
+![Snake](https://github.com/palaksoni24/palaksoni24/raw/output/snake.svg)
