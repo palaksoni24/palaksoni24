@@ -13,13 +13,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Pacman Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: palaksoni24
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/pacman.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
