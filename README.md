@@ -23,7 +23,7 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!-- Pacman github stats-->
 
 ## 🐍 Contribution Snake
 
