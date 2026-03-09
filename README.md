@@ -13,6 +13,7 @@ Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java develop
 
 ![](https://github-readme-stats.vercel.app/api?username=palaksoni24&show_icons=true&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palaksoni24&layout=compact&theme=tokyonight&hide_border=true)
 
 ![](https://streak-stats.demolab.com?user=palaksoni24&theme=tokyonight&hide_border=true)
 
