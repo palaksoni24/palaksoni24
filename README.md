@@ -1,3 +1,4 @@
+# 💫 About Me:
 Hi there 👋<br><br>Nice meeting you, I'm Palak!<br><br>🔭I am a java developer.<br>📫I am open to jobs and internships.<br>🌱Turning ideas into practical projects.<br>😄Pronouns: she/her.<br>⚡Fun fact: If I am not coding then probably I am sleeping.<br><br>
 
 
